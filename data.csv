@@ -1,0 +1,13 @@
+id, name,age,salary,city,joined,purchases,gender
+
+
+1,John Doe,28,50000,New York,2018-06-23,15
+2,Jane Smith,34,62000,Los Angeles,2017-09-15,22
+3,Bob Johnson,NaN,80000,Chicago,2015-03-30,30
+4,Alice Williams,29,54000,Houston,2019-11-12,18
+5,Michael Brown,38,NaN,Phoenix,2016-07-08,25
+6,Linda Davis,31,58000,Philadelphia,2018-01-19,20
+7,James Wilson,50,90000,San Antonio,2014-05-22,35
+8,Patricia Taylor,27,48000,San Diego,2020-02-14,12
+9,Robert Anderson,41,75000,Dallas,2015-10-03,28
+10,Mary Thomas,36,68000,San Jose,NaN,24
